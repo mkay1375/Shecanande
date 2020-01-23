@@ -12,26 +12,42 @@
 
 <h2 lang="fa" dir="rtl" align="right">اضافه کردن شکننده روی Taskbar</h2>
 
-<img scr="https://raw.githubusercontent.com/mkay1375/Shecanande/master/taskbar.jpg" alt="Shecanande Taskbar Image" />
+![Shecanande Taskbar Image](https://raw.githubusercontent.com/mkay1375/Shecanande/master/taskbar.jpg)
 
-<p  lang="fa" dir="rtl" align="right">
-<div>
+<p>
+<div lang="fa" dir="rtl" align="right">
 ۱)
 یه shortcut از فایل Shecanande.cmd بسازید.
 </div>
 
-<div>
+<div lang="fa" dir="rtl" align="right">
 ۲)
 روی اون راست کلیک کنید و Properties رو انتخاب کنید.
 </div>
 
-<div>
+<div lang="fa" dir="rtl" align="right">
 ۳)
 توی تب Shortcut مسیر اون (Target) رو به این شکل تغییر بدید:
 </div>
 
 ```
-cmd /c "path to Shecanande.cmd file"
+cmd /C "path to Shecanande.cmd file"
+e.g: cmd /C "C:\Users\Mostafa\Documents\Shecanande.cmd"
 ```
+
+<div lang="fa" dir="rtl" align="right">
+۴)
+توی همون تب رو Advanced کلیک کنید و گزینه Run as administrator رو فعال کنید.
+</div>
+
+<div lang="fa" dir="rtl" align="right">
+۵)
+اگه خواستید می‌تونید از shecan.ico به عنوان آیکون استفاده کنید.
+</div>
+
+<div lang="fa" dir="rtl" align="right">
+۶)
+در آخرم shortcut رو بکشید و روی taskbar رهاش کنید.
+</div>
 
 </p>
