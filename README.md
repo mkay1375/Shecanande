@@ -1,7 +1,7 @@
 <h1 lang="fa" dir="rtl" align="right">شکننده</h1>
 
 <p lang="fa" dir="rtl" align="right">
-یه اسکرپیت ساده برای تنظیم
+یه اسکریپت ساده برای فعال/غیرفعال کردن
 <a href="https://shecan.ir/">شکن</a>
 به عنوان DNS.
 </p>
@@ -47,7 +47,7 @@ e.g: cmd /C "C:\Users\Mostafa\Documents\Shecanande.cmd"
 
 <div lang="fa" dir="rtl" align="right">
 ۶)
-در آخرم shortcut رو بکشید و روی taskbar رهاش کنید.
+در آخرم shortcut رو بکشید روی taskbar و رهاش کنید.
 </div>
 
 </p>
